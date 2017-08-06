@@ -16,13 +16,13 @@
     </key>
     <key name="hide-aggindicator" type="b">
         <default>false</default>
-        <summary>Always hide the indicator in the system menu</summary>
+        <summary>Always hide the Indicator in the system menu</summary>
         <description>Whether to always hide the indicator in the system menu.</description>
     </key>
     <key name="cover-status" type="b">
         <default>false</default>
-        <summary>Show the current tracks cover in the panel</summary>
-        <description>Show the current tracks cover in the panel instead of an icon.</description>
+        <summary>Show the current track's cover in the panel</summary>
+        <description>Show the current track's cover in the panel instead of an icon.</description>
     </key>
     <key name="button-icon-size" enum="org.gnome.shell.extensions.mediaplayer.button-sizes">
         <default>'small'</default>
@@ -94,7 +94,7 @@
     </key>
     <key name="stop-button" type="b">
         <default>false</default>
-        <summary>Always show a Stop Button in the Player controls</summary>
+        <summary>Always show a Stop Button in the Player Controls</summary>
         <description>Always show a Stop Button in the Player controls.</description>
     </key>
     <key name="loop-status" type="b">
